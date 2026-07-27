@@ -1,0 +1,6 @@
+Fingers	Total
+3		1
+2		8
+
+Correct total is 5
+NO ONE WINS
